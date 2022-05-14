@@ -5,7 +5,7 @@ import Search from './Components/Search';
 
 function App() {
   return (
-    <div style={{ marginLeft: '163px', marginRight: '163px', fontFamily: "'Montserrat', 'sans-serif'" }}>
+    <div className="text-default text-text">
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/search" element={<Search />} />
