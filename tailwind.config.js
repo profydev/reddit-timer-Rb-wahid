@@ -11,6 +11,14 @@ module.exports = {
       default: ['Montserrat', 'sans-serif'],
       headline: ['Bitter', 'serif'],
     },
+    spacing: {
+      6: '30px',
+      5: '26px',
+      20: '80px',
+      19: '55px',
+      7: '32px',
+      8: '39px',
+    },
     fontSize: {
       default: ['16px', {
         lineHeight: '1.69rem',
