@@ -9,7 +9,7 @@ const Header = () => (
       </a>
     </div>
     <div className="flex font-bold mt-8">
-      <a href="/search?value='javascript'">Search</a>
+      <a href="/search?value=javascript">Search</a>
       <a className="ml-6" href="#how-it-works ">
         How It Works
       </a>
